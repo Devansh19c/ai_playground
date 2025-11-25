@@ -26,25 +26,6 @@ A personal and collaborative knowledge hub — all in one place.
 
 Both of us contribute individually while maintaining clean isolation of work.
 
----
+If you want to be a part of this repo , message either of us @ 'devanshchamoli.official@gmail.com' or 'arksdutt@gmail.com'
 
-## What You’ll Find Here
 
-- AI/ML notebooks and deep learning experiments  
-- Generative AI and RAG pipelines  
-- Model training scripts and benchmarks  
-- Utility functions, tools, and mini-frameworks  
-- Research notes, summaries, and study material  
-- Work-in-progress prototypes and ideas  
-
----
-
-## Purpose
-
-To grow as AI engineers by:
-
-- Practicing real-world machine learning and deep learning  
-- Keeping our learnings organized  
-- Tracking progress over time  
-- Encouraging creativity and exploration  
-- Building a long-term AI knowledge base  
