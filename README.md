@@ -1,6 +1,6 @@
 # ai_playground
 
-A collaborative AI/ML workspace by **Devansh** and **Ark** — a shared space for our projects, experiments, learning notes, and deep dives into Machine Learning, Deep Learning, and Generative AI.
+A collaborative AI/ML workspace by **Devansh** , **Ark** and **Parth** — a shared space for our projects, experiments, learning notes, and deep dives into Machine Learning, Deep Learning, and Generative AI.
 
 Each contributor works on their own branch to explore ideas, build models, and document their learning journeys independently.
 
