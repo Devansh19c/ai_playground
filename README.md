@@ -21,8 +21,10 @@ A personal and collaborative knowledge hub — all in one place.
 
 ## Contributors
 
-- **Devansh** — `devansh/` branch  
-- **Ark** — `ark/` branch  
+- **Devansh** — `dev-branch` branch  
+- **Ark** — `ark-branch/` branch
+- **Parth** — `parth-branch/` branch  
+
 
 Both of us contribute individually while maintaining clean isolation of work.
 
